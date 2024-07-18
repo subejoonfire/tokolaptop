@@ -32,6 +32,20 @@ Public Class Pelanggan_M
         Next
         Return pelangganList
     End Function
+    Public Function getGrafik() As DataTable
+        Dim query As String = "SELECT * FROM grafik"
+        Dim k As New Koneksidb
+        Dim dt As DataTable = k.GetResult(query)
+        Dim jumbar As Integer = dt.Rows.Count
+        If jumbar = 0 Then
+            dt = New DataTable
+            dt.Columns.AddRange(New DataColumn() {
+            New DataColumn("idgrafik", GetType(Integer)),
+            New DataColumn("nomor", GetType(String))
+        })
+        End If
+        Return dt
+    End Function
 
     Public Function getPelangganById(id_plgn As Integer) As Pelanggan_M
         Dim query As String = "SELECT * FROM tokolaptop.pelanggan WHERE id_plgn = " & id_plgn

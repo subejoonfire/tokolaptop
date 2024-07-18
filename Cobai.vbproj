@@ -212,6 +212,7 @@
     <Content Include="assets admin\assets\js\plugins\smooth-scrollbar.min.js" />
     <Content Include="assets admin\docs\documentation.html" />
     <Content Include="assets admin\Footer.ascx" />
+    <Content Include="assets admin\Gambar.aspx" />
     <Content Include="assets admin\Header.ascx" />
     <Content Include="assets admin\Laptop.aspx" />
     <Content Include="assets admin\Navbar.ascx" />
@@ -269,6 +270,13 @@
     <Compile Include="assets admin\Footer.ascx.vb">
       <DependentUpon>Footer.ascx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="assets admin\Gambar.aspx.designer.vb">
+      <DependentUpon>Gambar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="assets admin\Gambar.aspx.vb">
+      <DependentUpon>Gambar.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="assets admin\Header.ascx.designer.vb">
       <DependentUpon>Header.ascx</DependentUpon>

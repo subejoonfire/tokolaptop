@@ -118,7 +118,7 @@
                     </div>
                     <div class="card-body p-3">
                         <div class="chart">
-                            <canvas id="chart-line" class="chart-canvas" height="300"></canvas>
+                            <canvas id="grafikCanvas" class="chart-canvas" height="100"></canvas>
                         </div>
                     </div>
                 </div>
@@ -127,7 +127,7 @@
                 <div class="card card-carousel overflow-hidden h-100 p-0">
                     <div id="carouselExampleCaptions" class="carousel slide h-100" data-bs-ride="carousel">
                         <div class="carousel-inner border-radius-lg h-100">
-                            <div class="carousel-item h-100 active" style="background-image: url('./assets/img/gaming.jpeg'); background-size: cover;">
+                            <div class="carousel-item h-100 active" style="background-image: url('Gambar.aspx'); background-size: cover;">
                                 <div class="carousel-caption d-none d-md-block bottom-0 text-start start-0 ms-5">
                                     <div class="icon icon-shape icon-sm bg-white text-center border-radius-md mb-3">
                                         <i class="ni ni-camera-compact text-dark opacity-10"></i>
@@ -167,5 +167,52 @@
         </div>
     </div>
 </form>
-
 <uc:Footer runat="server" />
+    <script type="text/javascript">
+        var ctx = document.getElementById('grafikCanvas').getContext('2d');
+        var chart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: [],
+                datasets: [{
+                    label: 'Grafik',
+                    data: [],
+                    backgroundColor: [
+                        'rgba(255, 99, 132, 0.2)',
+                        'rgba(54, 162, 235, 0.2)',
+                        'rgba(255, 206, 86, 0.2)',
+                        'rgba(75, 192, 192, 0.2)',
+                        'rgba(153, 102, 255, 0.2)',
+                        'rgba(255, 159, 64, 0.2)'
+                    ],
+                    borderColor: [
+                        'rgba(255, 99, 132, 1)',
+                        'rgba(54, 162, 235, 1)',
+                        'rgba(255, 206, 86, 1)',
+                        'rgba(75, 192, 192, 1)',
+                        'rgba(153, 102, 255, 1)',
+                        'rgba(255, 159, 64, 1)'
+                    ],
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+
+<% 
+        Dim dt As System.Data.DataTable = ViewState("GrafikData")
+        For Each row As System.Data.DataRow In dt.Rows
+                    %>
+        chart.data.labels.push("Pelanggan");
+                    chart.data.datasets[0].data.push(<%= row("nomor") %>);
+                    <%
+        Next
+            %>
+        chart.update();
+    </script>
