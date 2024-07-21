@@ -1,46 +1,52 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Cobai\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\tokolaptop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19D8B163-F6C5-4C9A-8806-5565CE652F4D}|Cobai.vbproj|c:\\users\\administrator\\source\\repos\\cobai\\assets admin\\gambar.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Cobai||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D8B163-F6C5-4C9A-8806-5565CE652F4D}|Cobai.vbproj|c:\\users\\administrator\\source\\repos\\tokolaptop\\assets admin\\gambar.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{19D8B163-F6C5-4C9A-8806-5565CE652F4D}|Cobai.vbproj|solutionrelative:assets admin\\gambar.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19D8B163-F6C5-4C9A-8806-5565CE652F4D}|Cobai.vbproj|c:\\users\\administrator\\source\\repos\\cobai\\assets admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{19D8B163-F6C5-4C9A-8806-5565CE652F4D}|Cobai.vbproj|C:\\Users\\Administrator\\source\\repos\\tokolaptop\\assets admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{19D8B163-F6C5-4C9A-8806-5565CE652F4D}|Cobai.vbproj|solutionrelative:assets admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19D8B163-F6C5-4C9A-8806-5565CE652F4D}|Cobai.vbproj|c:\\users\\administrator\\source\\repos\\cobai\\assets admin\\dashboard.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{19D8B163-F6C5-4C9A-8806-5565CE652F4D}|Cobai.vbproj|C:\\Users\\Administrator\\source\\repos\\tokolaptop\\assets admin\\dashboard.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{19D8B163-F6C5-4C9A-8806-5565CE652F4D}|Cobai.vbproj|solutionrelative:assets admin\\dashboard.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19D8B163-F6C5-4C9A-8806-5565CE652F4D}|Cobai.vbproj|c:\\users\\administrator\\source\\repos\\cobai\\assets admin\\gambar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{19D8B163-F6C5-4C9A-8806-5565CE652F4D}|Cobai.vbproj|C:\\Users\\Administrator\\source\\repos\\tokolaptop\\assets admin\\gambar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{19D8B163-F6C5-4C9A-8806-5565CE652F4D}|Cobai.vbproj|solutionrelative:assets admin\\gambar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19D8B163-F6C5-4C9A-8806-5565CE652F4D}|Cobai.vbproj|C:\\Users\\Administrator\\source\\repos\\Cobai\\assets admin\\Pelanggan.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{19D8B163-F6C5-4C9A-8806-5565CE652F4D}|Cobai.vbproj|C:\\Users\\Administrator\\source\\repos\\tokolaptop\\assets admin\\Pelanggan.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{19D8B163-F6C5-4C9A-8806-5565CE652F4D}|Cobai.vbproj|solutionrelative:assets admin\\Pelanggan.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19D8B163-F6C5-4C9A-8806-5565CE652F4D}|Cobai.vbproj|C:\\Users\\Administrator\\source\\repos\\Cobai\\model\\Pelanggan_M.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{19D8B163-F6C5-4C9A-8806-5565CE652F4D}|Cobai.vbproj|C:\\Users\\Administrator\\source\\repos\\tokolaptop\\model\\Pelanggan_M.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{19D8B163-F6C5-4C9A-8806-5565CE652F4D}|Cobai.vbproj|solutionrelative:model\\Pelanggan_M.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19D8B163-F6C5-4C9A-8806-5565CE652F4D}|Cobai.vbproj|c:\\users\\administrator\\source\\repos\\cobai\\assets admin\\header.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "AbsoluteMoniker": "D:0:0:{19D8B163-F6C5-4C9A-8806-5565CE652F4D}|Cobai.vbproj|C:\\Users\\Administrator\\source\\repos\\tokolaptop\\assets admin\\header.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
       "RelativeMoniker": "D:0:0:{19D8B163-F6C5-4C9A-8806-5565CE652F4D}|Cobai.vbproj|solutionrelative:assets admin\\header.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19D8B163-F6C5-4C9A-8806-5565CE652F4D}|Cobai.vbproj|c:\\users\\administrator\\source\\repos\\cobai\\assets admin\\footer.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "AbsoluteMoniker": "D:0:0:{19D8B163-F6C5-4C9A-8806-5565CE652F4D}|Cobai.vbproj|C:\\Users\\Administrator\\source\\repos\\tokolaptop\\assets admin\\footer.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
       "RelativeMoniker": "D:0:0:{19D8B163-F6C5-4C9A-8806-5565CE652F4D}|Cobai.vbproj|solutionrelative:assets admin\\footer.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19D8B163-F6C5-4C9A-8806-5565CE652F4D}|Cobai.vbproj|c:\\users\\administrator\\source\\repos\\cobai\\assets admin\\laptop.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{19D8B163-F6C5-4C9A-8806-5565CE652F4D}|Cobai.vbproj|C:\\Users\\Administrator\\source\\repos\\tokolaptop\\assets admin\\laptop.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{19D8B163-F6C5-4C9A-8806-5565CE652F4D}|Cobai.vbproj|solutionrelative:assets admin\\laptop.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19D8B163-F6C5-4C9A-8806-5565CE652F4D}|Cobai.vbproj|C:\\Users\\Administrator\\source\\repos\\Cobai\\assets admin\\Pelanggan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{19D8B163-F6C5-4C9A-8806-5565CE652F4D}|Cobai.vbproj|C:\\Users\\Administrator\\source\\repos\\tokolaptop\\assets admin\\Pelanggan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{19D8B163-F6C5-4C9A-8806-5565CE652F4D}|Cobai.vbproj|solutionrelative:assets admin\\Pelanggan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D8B163-F6C5-4C9A-8806-5565CE652F4D}|Cobai.vbproj|c:\\users\\administrator\\source\\repos\\tokolaptop\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|909d16b3-c8e8-43d1-a2b8-26ea0d4b6b57"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,42 +60,27 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Pelanggan.aspx.vb",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Cobai\\assets admin\\Pelanggan.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\tokolaptop\\assets admin\\Pelanggan.aspx.vb",
               "RelativeDocumentMoniker": "assets admin\\Pelanggan.aspx.vb",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Cobai\\assets admin\\Pelanggan.aspx.vb",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\tokolaptop\\assets admin\\Pelanggan.aspx.vb",
               "RelativeToolTip": "assets admin\\Pelanggan.aspx.vb",
               "ViewState": "AQIAABoAAAAAAAAAAAAuwDEAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-07-18T09:52:22.186Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Gambar.aspx.vb",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Cobai\\assets admin\\Gambar.aspx.vb",
-              "RelativeDocumentMoniker": "assets admin\\Gambar.aspx.vb",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Cobai\\assets admin\\Gambar.aspx.vb",
-              "RelativeToolTip": "assets admin\\Gambar.aspx.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-07-18T11:41:41.633Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Gambar.aspx",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Cobai\\assets admin\\Gambar.aspx",
-              "RelativeDocumentMoniker": "assets admin\\Gambar.aspx",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Cobai\\assets admin\\Gambar.aspx",
-              "RelativeToolTip": "assets admin\\Gambar.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-18T11:39:32.473Z",
+              "Title": "Cobai",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\tokolaptop\\Cobai.vbproj",
+              "RelativeDocumentMoniker": "Cobai.vbproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\tokolaptop\\Cobai.vbproj",
+              "RelativeToolTip": "Cobai.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-21T13:21:57.389Z",
               "EditorCaption": ""
             },
             {
@@ -110,76 +101,96 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Dashboard.aspx.vb",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Cobai\\assets admin\\Dashboard.aspx.vb",
-              "RelativeDocumentMoniker": "assets admin\\Dashboard.aspx.vb",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Cobai\\assets admin\\Dashboard.aspx.vb",
-              "RelativeToolTip": "assets admin\\Dashboard.aspx.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA6AAAA",
+              "DocumentIndex": 1,
+              "Title": "Gambar.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\tokolaptop\\assets admin\\Gambar.aspx.vb",
+              "RelativeDocumentMoniker": "assets admin\\Gambar.aspx.vb",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\tokolaptop\\assets admin\\Gambar.aspx.vb",
+              "RelativeToolTip": "assets admin\\Gambar.aspx.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA6wA4AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-07-18T11:34:13.44Z",
+              "WhenOpened": "2024-07-18T11:41:41.633Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Header.ascx",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Cobai\\assets admin\\Header.ascx",
-              "RelativeDocumentMoniker": "assets admin\\Header.ascx",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Cobai\\assets admin\\Header.ascx",
-              "RelativeToolTip": "assets admin\\Header.ascx",
+              "DocumentIndex": 4,
+              "Title": "Gambar.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\tokolaptop\\assets admin\\Gambar.aspx",
+              "RelativeDocumentMoniker": "assets admin\\Gambar.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\tokolaptop\\assets admin\\Gambar.aspx",
+              "RelativeToolTip": "assets admin\\Gambar.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
-              "WhenOpened": "2024-07-18T11:30:51.911Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-18T11:39:32.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\tokolaptop\\assets admin\\Dashboard.aspx.vb",
+              "RelativeDocumentMoniker": "assets admin\\Dashboard.aspx.vb",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\tokolaptop\\assets admin\\Dashboard.aspx.vb",
+              "RelativeToolTip": "assets admin\\Dashboard.aspx.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-18T11:34:13.44Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Footer.ascx",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Cobai\\assets admin\\Footer.ascx",
-              "RelativeDocumentMoniker": "assets admin\\Footer.ascx",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Cobai\\assets admin\\Footer.ascx",
-              "RelativeToolTip": "assets admin\\Footer.ascx",
+              "Title": "Header.ascx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\tokolaptop\\assets admin\\Header.ascx",
+              "RelativeDocumentMoniker": "assets admin\\Header.ascx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\tokolaptop\\assets admin\\Header.ascx",
+              "RelativeToolTip": "assets admin\\Header.ascx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
-              "WhenOpened": "2024-07-18T11:27:27.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Dashboard.aspx",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Cobai\\assets admin\\Dashboard.aspx",
-              "RelativeDocumentMoniker": "assets admin\\Dashboard.aspx",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Cobai\\assets admin\\Dashboard.aspx",
-              "RelativeToolTip": "assets admin\\Dashboard.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-18T11:27:04.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T11:30:51.911Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Laptop.aspx.vb",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Cobai\\assets admin\\Laptop.aspx.vb",
-              "RelativeDocumentMoniker": "assets admin\\Laptop.aspx.vb",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Cobai\\assets admin\\Laptop.aspx.vb",
-              "RelativeToolTip": "assets admin\\Laptop.aspx.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAA6wB0AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-07-18T10:10:13.558Z",
-              "EditorCaption": ""
+              "Title": "Footer.ascx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\tokolaptop\\assets admin\\Footer.ascx",
+              "RelativeDocumentMoniker": "assets admin\\Footer.ascx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\tokolaptop\\assets admin\\Footer.ascx",
+              "RelativeToolTip": "assets admin\\Footer.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-07-18T11:27:27.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\tokolaptop\\assets admin\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "assets admin\\Dashboard.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\tokolaptop\\assets admin\\Dashboard.aspx",
+              "RelativeToolTip": "assets admin\\Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-18T11:27:04.186Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "Laptop.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\tokolaptop\\assets admin\\Laptop.aspx.vb",
+              "RelativeDocumentMoniker": "assets admin\\Laptop.aspx.vb",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\tokolaptop\\assets admin\\Laptop.aspx.vb",
+              "RelativeToolTip": "assets admin\\Laptop.aspx.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA6wB0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-18T10:10:13.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Pelanggan.aspx",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Cobai\\assets admin\\Pelanggan.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\tokolaptop\\assets admin\\Pelanggan.aspx",
               "RelativeDocumentMoniker": "assets admin\\Pelanggan.aspx",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Cobai\\assets admin\\Pelanggan.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\tokolaptop\\assets admin\\Pelanggan.aspx",
               "RelativeToolTip": "assets admin\\Pelanggan.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -187,16 +198,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Pelanggan_M.vb",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Cobai\\model\\Pelanggan_M.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\tokolaptop\\model\\Pelanggan_M.vb",
               "RelativeDocumentMoniker": "model\\Pelanggan_M.vb",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Cobai\\model\\Pelanggan_M.vb",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\tokolaptop\\model\\Pelanggan_M.vb",
               "RelativeToolTip": "model\\Pelanggan_M.vb",
               "ViewState": "AQIAABEAAAAAAAAAAAAewCsAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-07-18T08:21:50.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T08:21:50.37Z"
             }
           ]
         }
